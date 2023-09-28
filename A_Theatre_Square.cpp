@@ -12,7 +12,7 @@ int main() {
     if(m % a != 0) {
         y++;
     }
-    cout << x*y<< endl;
+    cout << x*y;
     return 0;
 }
 
