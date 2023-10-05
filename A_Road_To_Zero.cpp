@@ -22,7 +22,6 @@ int main() {
     while(t--) {
         ll x, y, a, b ;
         cin >> x >> y >> a >> b;
-        
         cout << solve(x, y, a, b) << endl;
     }
     return 0;
